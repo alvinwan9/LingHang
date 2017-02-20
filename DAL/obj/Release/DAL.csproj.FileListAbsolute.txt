@@ -1,0 +1,7 @@
+F:\VS_PROJECT\领航工作室\LingHang\DAL\bin\Release\DAL.dll
+F:\VS_PROJECT\领航工作室\LingHang\DAL\bin\Release\DAL.pdb
+F:\VS_PROJECT\领航工作室\LingHang\DAL\bin\Release\Model.dll
+F:\VS_PROJECT\领航工作室\LingHang\DAL\bin\Release\Model.pdb
+F:\VS_PROJECT\领航工作室\LingHang\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+F:\VS_PROJECT\领航工作室\LingHang\DAL\obj\Release\DAL.dll
+F:\VS_PROJECT\领航工作室\LingHang\DAL\obj\Release\DAL.pdb

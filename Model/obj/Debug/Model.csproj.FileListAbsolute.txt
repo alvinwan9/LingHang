@@ -1,0 +1,14 @@
+C:\Users\petter\Desktop\LingHang\Model\bin\Debug\Model.dll
+C:\Users\petter\Desktop\LingHang\Model\bin\Debug\Model.pdb
+C:\Users\petter\Desktop\LingHang\Model\obj\Debug\Model.dll
+C:\Users\petter\Desktop\LingHang\Model\obj\Debug\Model.pdb
+D:\我的工作室\LingHang\Model\bin\Debug\Model.dll
+D:\我的工作室\LingHang\Model\bin\Debug\Model.pdb
+D:\我的工作室\LingHang\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\我的工作室\LingHang\Model\obj\Debug\Model.dll
+D:\我的工作室\LingHang\Model\obj\Debug\Model.pdb
+F:\VS_PROJECT\领航工作室\LingHang\Model\bin\Debug\Model.dll
+F:\VS_PROJECT\领航工作室\LingHang\Model\bin\Debug\Model.pdb
+F:\VS_PROJECT\领航工作室\LingHang\Model\obj\Debug\Model.dll
+F:\VS_PROJECT\领航工作室\LingHang\Model\obj\Debug\Model.pdb
+F:\VS_PROJECT\领航工作室\LingHang\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache

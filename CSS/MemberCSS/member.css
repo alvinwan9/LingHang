@@ -1,0 +1,136 @@
+﻿@charset "utf-8";
+/* CSS Document */
+.three{ background-color:#AD0910; color:#FF3;}
+
+.mid{
+	width:100%;
+	border-radius:10px;
+	padding:10px 20px 20px 20px;
+	background:linear-gradient(#111B23,#131F28);
+	margin-left:auto;
+	margin-right:auto; 
+ 	width:800px; 
+	margin-bottom:20px;
+	padding-top:10px;
+	}
+.nav2{ 
+/*	padding-left:30px;
+	font-style:italic;
+*/	float:left;
+	width:507px;
+    margin-left:10px;
+	}
+.nav2 li{
+	color:#fff;
+	font-family:"微软雅黑","仿宋", "楷体", "宋体",  "新宋体";
+	font-size:14px;
+	list-style:none;
+	float:left;
+	padding:3px 20px;
+	}
+
+.guid{/* border-bottom:1px dashed #858585;border-top:1px dashed #858585;*/}
+.nav2 li:link{}
+.nav2 li:first-child{background-color:#5fc132;}
+/*.nav2 li:hover{background-color:#5fc132;}*/
+.search{ 
+	float:left;
+	font-family: "微软雅黑","仿宋", "楷体", "宋体", "新宋体";
+	margin-left:8px;
+    border:solid 2px #beb47b;
+    color:#000;
+	}
+
+.search .select{
+	float:left;
+	width:56px;
+    height:20px;
+    color:#000;
+	font-family:"微软雅黑","仿宋", "楷体", "宋体",  "新宋体";
+	}
+.search .select option{	color:#000; }
+.search input{
+	float:left;
+    height:20px;
+	width:151px;
+	color:#000;
+	font-family: "微软雅黑","仿宋", "楷体", "宋体", "新宋体";
+	}
+.search .button{
+    height:20px;
+    cursor:pointer;
+	width:44px;
+	background-color:#6054a0;
+	float:left;
+	font-family:"微软雅黑","仿宋", "楷体", "宋体",  "新宋体";
+	}
+/*.space{background-color:#111C24;float:left;}*/
+.include{width:195px;float:left;}
+.captionline {
+    width: 800px;
+    height: 30px;
+    background: url('../images/manager.gif') no-repeat scroll left top transparent;
+    border-bottom: 1px solid #BFBFBF;
+	}
+.topbar{margin-top:10px;margin-left:5px;}
+.topbar h4:first-letter{ font-size:18px;}
+.topbar h4{line-height:30px;}
+
+
+
+
+
+/**************************************************/
+.top{
+	 border-left:8px  solid #ccc;
+	margin-bottom:10px;
+ }
+
+
+.theme{
+	 font-size:18px;
+	 color:#FF8A00;
+	 font-family:"Microsoft YaHei UI", Fixedsys, SimSun-ExtB, System, Terminal;
+}
+
+.nick{
+	 font-size:18px;	 
+	color:#963;	 
+	font-family:"Microsoft YaHei UI", Fixedsys, SimSun-ExtB, System, Terminal;	
+	margin:0px 15px;
+}
+
+.main p,main span{
+	 margin:5px 10px;
+}
+.people_out{ padding-top:25px;
+padding-left:20px;}
+/**************************************************/
+.figure {
+	float: left;
+	width: 110px;
+	height: 140px;
+	margin: 15px 15px 5px 10px;
+	}
+.figure p {
+	font: 14px Helvetica, Arial, sans-serif, 微软雅黑;
+	text-align: center;
+	margin-top: 0px;
+	text-indent:0px;
+    width:80px;
+	}
+.figure img{
+	width:100px;
+	height:120px;
+	}
+.gallery {
+	width: 800px;
+	margin-left:auto;
+	margin-right:auto;
+	padding-left:26px;
+	}
+.gallery .hr{border-top:1px solid #1E2F3C;;}
+.people{
+	width:100%;
+	}
+

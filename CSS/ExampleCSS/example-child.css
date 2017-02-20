@@ -1,0 +1,39 @@
+﻿@charset "utf-8";
+/* CSS Document */
+.photo1{ 
+	margin-left:auto;
+	margin-right:auto;
+}
+.photo1 img{
+	margin-left:auto;
+	margin-right:auto;
+	width:100%;	
+/*	width:800px;
+	height:897px;
+*/	}
+.return button{margin-top:13px;
+	float:right;
+	border-radius:10px;
+	display:block;
+	width:30px;height:62px;
+    border: 0px none;
+    font-size: 18px;
+    width: 35px;
+    height: 80px;
+    background: linear-gradient(#111B26, #1D2F3E, #111B26) repeat scroll 0% 0% transparent;
+	}
+.return a:link{text-decoration:none;}
+.jianjie{
+	width:100%;
+	margin-bottom:15px;
+	margin-top:20px;
+	}
+.jianjie p{
+	float:left; 
+	text-indent:0;
+	margin-top:15px;
+	font: 12px Arial, Helvetica, sans-serif;
+    color: #737373;
+	}
+
+

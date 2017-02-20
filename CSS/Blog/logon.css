@@ -1,0 +1,15 @@
+﻿@charset "utf-8";
+/* CSS Document */
+*{margin:0;padding:0;}
+body{	background-color:#100F14; padding-top:18px;}
+.whole{background:url(../../Image/logon-back.jpg) no-repeat;width:842px;height:600px;margin-left:auto;margin-right:auto;padding-top:185px;}
+.main{width:400px;height:300px;border:hidden;margin:auto;color:#44240E;font-size:18px;}
+.passage{margin:5px 5px 5px 5px;font-family: "微软雅黑","仿宋", "楷体", "宋体", "新宋体";}
+.load{margin-left:85px;margin-top:62px;font-family: "微软雅黑","仿宋", "楷体", "宋体", "新宋体";}
+.load input{border:hidden;border-bottom:1px solid #0FF;color:#44240E;background-color:transparent;}
+.load .button{color:#44240E; cursor:pointer; border:hidden;font-size:20px;background-color:transparent;margin-left:78px;margin-top:10px;border-bottom:1px solid #44240E;}
+.load a{color:#44240E;}
+.load a:link{ text-decoration:none; color:#000;}
+.load a:hover{text-decoration:underline;color:#F00;}
+.load a:visited{}    
+#pass{}

@@ -1,0 +1,208 @@
+﻿@charset "utf-8";
+
+/* CSS Document */
+p{
+	font-family: Helvetica,Arial,sans-serif,宋体;
+	
+font-size: 15px;
+	
+line-height: 18px;
+	
+color: #666;
+}
+.five{  background-color:!important;background-color:#080F15;
+}
+.six{ background-color:#AD0910; color:#FF3;}
+
+.top{
+	 border-left:8px  solid #ccc;
+	margin-bottom:10px;
+    margin-left:10px;
+ }
+
+
+.theme{
+	 font-size:18px;
+	 color:#FF8A00;
+	 font-family:"Microsoft YaHei UI", Fixedsys, SimSun-ExtB, System, Terminal;
+}
+
+.nick{
+	 font-size:18px;	 
+	color:#963;	 
+	font-family:"Microsoft YaHei UI", Fixedsys, SimSun-ExtB, System, Terminal;	
+	margin:0px 15px;
+}
+
+.main p,main span{
+	 margin:5px 10px;
+}
+
+.nextpage{
+	
+	width: 800px;
+	
+	height: 20px;
+	
+	margin-left: 20px;
+	
+	font-family: Helvetica,Arial,sans-serif,宋体;
+	
+	font-size: 15px;
+	
+	font-weight: normal;
+	
+	text-align: right;
+	
+}
+.nextpage p{
+	margin-right:30px;
+	float:right;
+}
+.nextpage a:link{
+	color:#999;
+	text-decoration:none;
+}
+.nextpage a:visited{
+	color:#ccc;
+}
+.nextpage a:hover{
+	color:#999;
+	text-decoration:underline;
+}
+
+.Liuyan{
+	
+	padding:5px 20px;
+	background:linear-gradient(#111B23,#182530);
+	border-radius:10px;	
+}
+.leavemsg-time {
+    font-size:11px;
+}
+.lianxifs p, .lianxifs select, .lianxifs input, form .mall-massage, form comments{
+	 float:left;
+ }
+ 
+.lianxifs select{
+	 width:74px;
+	 color:#000;
+	 height:22px;
+	  border:1px solid #966;
+ }
+
+
+.lianxifs option{
+	 color:#000;
+}
+
+
+.lianxifs input{
+	 width:326px;
+	 border-left:0;
+}
+
+
+.mall-massage{
+	 margin-bottom:20px;
+}
+
+
+
+/*
+
+@charset "utf-8";
+/* CSS Document */
+span, p{font-family: Helvetica,Arial,sans-serif,宋体;
+font-size: 15px;
+line-height: 18px;
+color: #666;}
+.call{ 
+	background:linear-gradient(#111B23,#182530);
+	border-radius:10px;
+	margin-top:1px;
+	padding:10px 20px 20px;
+/*	background:linear-gradient(#101A24,#1B2D3B) repeat scroll 0% 0% transparent;
+*/}
+.call-out{
+	padding-top:10px;
+	padding-bottom:20px;}
+.call-in{
+	padding-left:30px;
+	padding-right:20px;
+	float:left;
+	min-width:60px;}
+.my-input{ border:1px solid #966; 
+	width:400px;
+	height:20px; 
+	margin-bottom:5px; 
+	word-wrap:break-word;
+	color:#000;
+	font-size:15px;
+	background-color: #F1F1F1;
+	}
+	
+.mage{ height: 150px;
+	overflow:scroll;
+	overflow-y:hidden;
+	}	
+.yanzheng{ width:86px; 
+margin-left:5px;
+margin-bottom:0;
+color:#000;
+}
+
+.reset{ margin-left:310px;
+	margin-top:5px;
+	width:60px;
+	float:left;}
+	
+.submit{ 
+    margin-left:387px;
+	border:0;
+	font-size:18px;
+	font-family:"微软雅黑", "楷体", "宋体",  "新宋体"
+	margin-top:5px;
+	width:90px;
+	height:35px;
+	float:left;
+	color:#ddd;
+	border-radius:10px;
+	background:linear-gradient(#111B26,#1D2F3E,#111B26);
+}
+	
+/*
+    .textarea{ border:1px solid #966; 
+	width:400px; 
+	margin-bottom:5px; 
+	font-family: Helvetica,Arial,sans-serif,宋体;
+	font-size: 18px;
+	margin-left:-1px;
+	color:#000;
+	background-color: #F1F1F1;}
+*/
+.lianxifs p, .lianxifs select, .lianxifs input, form .mall-massage, form comments{ float:left; } 
+.lianxifs select{ width:74px; color:#000; height:22px;  border:1px solid #966; }
+.lianxifs option{ color:#000;}
+.lianxifs input{ 
+    width:327px; border-left:0; color:#000;
+    height:20px; 
+    margin-top:1px;
+	margin-bottom:5px; 
+	word-wrap:break-word;
+	color:#000;
+	font-size:15px;
+	background-color: #F1F1F1;
+}
+
+.mall{
+	border-radius:10px;
+	padding:10px 20px 20px 20px;
+	background:linear-gradient(#111B23,#131F28);
+ }
+.mall-massage{ margin-bottom:20px; }
+.mall img{ margin-top:-5px;margin-left: 20px; padding-top:5px;}
+.mall .yanzheng-a{ width:100px; height:30px; position:absolute;}
+hr{width:800px;background-color:#ccc;height:3px;  margin:15px 0;}
+
+
